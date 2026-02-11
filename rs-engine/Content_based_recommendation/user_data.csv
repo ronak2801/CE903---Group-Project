@@ -1,0 +1,202 @@
+customer_id,customer_name,Categories,Weekly_Budget,Allergies
+1,John Ross,Low FODMAP,135,Milk
+2,Angela Hendrix,Paleo,51,Eggs
+3,Brett Cuevas,Lacto-Vegetarian,139,Soy
+4,Paul Thompson,Vegan,102,Fish
+5,Chris Jones,Pescetarian,110,Fish
+6,Christopher Long,Paleo,50,Milk
+7,Anna Chen,Low FODMAP,67,Gluten
+8,Matthew Sanchez,Vegan,139,Gluten
+9,Jay Hernandez,Whole30,116,Sesame
+10,Jennifer Carter,Primal,139,Lupin
+11,Eric Farmer,Ketogenic,88,Wheat
+12,Carmen French,Primal,114,Wheat
+13,Jared Hodges,Whole30,98,Sunflower seeds
+14,Jeremy Lane,Pescetarian,95,Wheat
+15,Ashley Smith,Ovo-Vegetarian,71,Eggs
+16,John Day,Vegan,63,Sesame
+17,David Turner,Whole30,82,Sunflower seeds
+18,Michael Carter,Low FODMAP,81,Sesame
+19,Andrea Rogers,Whole30,145,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+20,Kristin Mckenzie,Whole30,108,Yeast
+21,Gregory Williams,Lacto-Vegetarian,60,No Allergies
+22,Monica Sanchez,Vegetarian,98,"Shellfish ( crab, lobster, and shrimp)"
+23,Lisa Rice,Gluten Free,64,Gluten
+24,Charles Price,Paleo,74,Eggs
+25,Scott Black,Paleo,98,Soy
+26,Elizabeth Barry,Lacto-Vegetarian,74,No Allergies
+27,Ryan Burgess,Gluten Free,53,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+28,Eugene Eaton,Low FODMAP,92,No Allergies
+29,Jonathan Soto,Primal,84,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+30,Molly Jones,Vegan,132,Mustard
+31,Scott Martinez,Ovo-Vegetarian,107,Milk
+32,Gabrielle Shaffer,Paleo,113,Yeast
+33,Gregory Simpson,Gluten Free,58,Corn
+34,Sydney Graves,Vegan,101,Milk
+35,Felicia Stone,Low FODMAP,144,Mustard
+36,John Anderson,Gluten Free,100,Wheat
+37,Susan Fisher,Low FODMAP,64,Corn
+38,Kaylee Mitchell,Lacto-Vegetarian,96,Sunflower seeds
+39,Crystal Butler,Low FODMAP,68,Milk
+40,Chelsea Woods,Gluten Free,110,"Shellfish ( crab, lobster, and shrimp)"
+41,Ashley Pham,Lacto-Vegetarian,58,Yeast
+42,Emily James,Vegetarian,109,Gluten
+43,Amanda Hopkins,Vegetarian,126,"Shellfish ( crab, lobster, and shrimp)"
+44,Karen Rodriguez,Lacto-Vegetarian,106,Fish
+45,Brooke Salazar,Vegetarian,56,Fish
+46,Karen Mccoy,Gluten Free,145,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+47,Stephen Hurst,Whole30,60,Mustard
+48,Melissa Robertson,Whole30,109,Corn
+49,Johnathan Hall,Vegan,68,Sunflower seeds
+50,Christine Edwards,Vegan,140,Corn
+51,Bianca Hart MD,Pescetarian,113,Eggs
+52,Shannon Carey,Primal,76,Milk
+53,Kurt Reese,Whole30,50,Corn
+54,Jennifer Nelson,Vegan,130,No Allergies
+55,Frank Lucas,Ovo-Vegetarian,96,Mustard
+56,Angela Campbell,Low FODMAP,60,Mustard
+57,Lauren Fuller,Vegan,125,Eggs
+58,Crystal Vargas,Whole30,73,Milk
+59,Peter Keller,Primal,135,Yeast
+60,Shannon Daniels,Pescetarian,102,Fish
+61,Terry Collier,Vegetarian,79,Gluten
+62,Ryan Bennett,Low FODMAP,112,Mustard
+63,Robert Jones,Ketogenic,63,Milk
+64,Kimberly Whitehead,Vegetarian,50,"Shellfish ( crab, lobster, and shrimp)"
+65,Rhonda Meza,Primal,131,Lupin
+66,Lisa Hodges,Lacto-Vegetarian,92,Yeast
+67,Eric Simmons,Paleo,134,Eggs
+68,Heather Miller,Ovo-Vegetarian,64,Lupin
+69,Jillian Barron,Whole30,143,"Shellfish ( crab, lobster, and shrimp)"
+70,Christopher Mosley,Vegetarian,98,Corn
+71,April Bartlett,Vegetarian,51,No Allergies
+72,Crystal Campbell,Gluten Free,84,Mustard
+73,John Keller,Primal,85,Peanuts
+74,Paige Simpson,Pescetarian,77,Mustard
+75,Tracy Greene,Gluten Free,137,Lupin
+76,Jordan Knight,Ketogenic,101,Corn
+77,Eric Nichols,Vegan,66,Peanuts
+78,Debra Gray,Primal,146,Lupin
+79,Veronica Sanchez,Whole30,98,Eggs
+80,Laura Smith,Pescetarian,88,Fish
+81,Manuel Bryant,Whole30,63,Corn
+82,Tammy Davis,Low FODMAP,104,Fish
+83,Mark Jensen,Paleo,123,"Shellfish ( crab, lobster, and shrimp)"
+84,Glenn Rice,Lacto-Vegetarian,57,Fish
+85,Jonathan Ramirez,Whole30,149,Fish
+86,Christopher Gordon,Paleo,73,Mustard
+87,Corey Moore,Paleo,119,Lupin
+88,Heather Stewart,Vegetarian,82,Gluten
+89,Jessica Johnson,Whole30,87,Sesame
+90,Michael Green,Vegetarian,82,Fish
+91,Ryan Smith,Primal,82,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+92,Zachary Lewis MD,Lacto-Vegetarian,122,Mustard
+93,Jonathan Lambert,Vegetarian,137,"Shellfish ( crab, lobster, and shrimp)"
+94,Karen Hill,Low FODMAP,94,Milk
+95,Hayley Roberts,Vegetarian,90,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+96,Melissa Patrick,Low FODMAP,108,Gluten
+97,Daniel Griffin,Whole30,82,"Shellfish ( crab, lobster, and shrimp)"
+98,Mr. Garrett Myers,Low FODMAP,69,Milk
+99,Chad Vega,Ketogenic,80,No Allergies
+100,Patricia Noble,Ketogenic,90,No Allergies
+101,Denise Davis,Paleo,111,Lupin
+102,Peter Carlson,Pescetarian,101,Yeast
+103,Veronica Small,Paleo,102,Milk
+104,Lauren Johnson,Ovo-Vegetarian,91,Yeast
+105,Erin Medina,Lacto-Vegetarian,117,Eggs
+106,Cathy Garza,Gluten Free,129,Sunflower seeds
+107,Kathryn Francis,Gluten Free,84,Soy
+108,Gregory Robertson,Whole30,138,Lupin
+109,Brittany May,Vegetarian,137,Soy
+110,Amanda Walsh,Gluten Free,103,Peanuts
+111,James Espinoza,Vegetarian,112,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+112,Teresa Rodriguez,Primal,51,Corn
+113,Kayla Graham,Whole30,127,No Allergies
+114,Susan Reed,Pescetarian,115,Corn
+115,Paul Morgan,Primal,68,Lupin
+116,Kimberly Lawrence,Low FODMAP,141,Sunflower seeds
+117,Melissa Anderson,Primal,140,Wheat
+118,Melanie Delacruz,Ketogenic,133,Eggs
+119,Amanda Marsh,Lacto-Vegetarian,96,Peanuts
+120,Stephanie Barber,Primal,60,Yeast
+121,Carol Lewis,Primal,70,Corn
+122,Michael Perez,Gluten Free,86,"Shellfish ( crab, lobster, and shrimp)"
+123,Jason Gray,Pescetarian,92,Eggs
+124,Brittany Gordon,Lacto-Vegetarian,93,Soy
+125,Derrick Berry,Vegetarian,59,No Allergies
+126,Susan Morgan,Ovo-Vegetarian,87,Fish
+127,Cheryl Jackson,Vegan,88,Peanuts
+128,Heather Owens,Low FODMAP,91,Corn
+129,Brian Mcdowell,Pescetarian,138,Milk
+130,Kimberly Rodriguez,Lacto-Vegetarian,52,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+131,Sarah Mahoney,Ovo-Vegetarian,55,Eggs
+132,David Payne,Pescetarian,140,Corn
+133,Matthew Barnes,Paleo,89,Yeast
+134,Steven Crosby,Whole30,99,Mustard
+135,Edward Moore,Gluten Free,127,No Allergies
+136,Joel Johnson,Paleo,148,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+137,Anne Nguyen,Whole30,134,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+138,Andrew Smith,Primal,86,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+139,Alexander Chang,Ketogenic,86,Milk
+140,Morgan Cameron,Primal,113,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+141,Grace Reed,Ovo-Vegetarian,55,Corn
+142,George Brooks,Whole30,59,"Shellfish ( crab, lobster, and shrimp)"
+143,Blake Allen,Gluten Free,134,Soy
+144,Erica Baldwin,Vegan,136,No Allergies
+145,Frank Bush,Gluten Free,90,Peanuts
+146,Luis Thomas,Paleo,129,Eggs
+147,Christopher Waller,Ketogenic,51,Yeast
+148,Crystal Hernandez,Pescetarian,62,No Allergies
+149,Judy Morris,Ketogenic,98,Lupin
+150,Phillip Page,Whole30,125,Sunflower seeds
+151,Denise Garza,Pescetarian,79,Mustard
+152,Miguel Gilbert,Vegan,109,Sunflower seeds
+153,Alexis Allen,Primal,111,"Shellfish ( crab, lobster, and shrimp)"
+154,Dawn Black,Vegetarian,144,Sunflower seeds
+155,Joshua Jones,Primal,89,Gluten
+156,Alexander Hanson,Gluten Free,62,Lupin
+157,Stephanie Jones,Vegetarian,134,Milk
+158,Tina White,Ovo-Vegetarian,59,Mustard
+159,Wendy Hughes,Paleo,112,Gluten
+160,Nancy Wallace,Vegan,54,No Allergies
+161,Heather Moore,Paleo,109,Eggs
+162,Tina Stevens,Pescetarian,54,Yeast
+163,Bernard Sims,Ovo-Vegetarian,90,Milk
+164,Beverly Bender,Gluten Free,125,Corn
+165,Lisa Lee,Ovo-Vegetarian,97,Lupin
+166,Stacey Mills,Low FODMAP,136,Gluten
+167,Elizabeth Barrera,Primal,74,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+168,Christopher Johnson,Lacto-Vegetarian,51,Fish
+169,Craig Mitchell,Ketogenic,149,Sesame
+170,Joe Torres,Pescetarian,90,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+171,James Casey,Lacto-Vegetarian,144,Lupin
+172,David Stewart,Ovo-Vegetarian,113,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+173,Jade Simon,Vegetarian,79,"Shellfish ( crab, lobster, and shrimp)"
+174,Scott Beck,Vegan,126,Mustard
+175,Mary Parker,Vegetarian,81,Corn
+176,Courtney Delgado,Vegan,56,Sesame
+177,Christopher Owen,Lacto-Vegetarian,54,Fish
+178,Sarah Guzman,Low FODMAP,58,Sunflower seeds
+179,Lance Christensen,Vegan,97,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+180,Dennis Sloan,Vegan,119,Mustard
+181,Jennifer Combs,Ovo-Vegetarian,128,Lupin
+182,Pamela West,Ketogenic,142,Fish
+183,Amber Smith,Paleo,143,Wheat
+184,Mark Thomas,Paleo,148,Yeast
+185,Laura Bell DDS,Lacto-Vegetarian,145,Mustard
+186,Alejandra Duarte,Vegetarian,55,Peanuts
+187,Kathryn Garcia,Primal,91,Soy
+188,Morgan Conrad,Whole30,76,Fish
+189,Joshua Roman,Whole30,110,Mustard
+190,Lance Brown,Lacto-Vegetarian,76,Peanuts
+191,Maria Flowers,Paleo,131,Mustard
+192,Jonathan Miller,Ketogenic,70,Yeast
+193,Kayla Black,Low FODMAP,113,Fish
+194,Dylan Bell,Low FODMAP,51,Fish
+195,Pamela Henry,Pescetarian,106,"Shellfish ( crab, lobster, and shrimp)"
+196,Dr. David Davis,Whole30,105,Gluten
+197,Ashley Smith,Gluten Free,50,"Tree nuts(almonds, walnuts, pecans, and cashews)"
+198,Janice Ortiz,Primal,59,Sunflower seeds
+199,Andrew Foster,Gluten Free,92,Wheat
+200,Eric Mays,Ovo-Vegetarian,124,Milk
+,,Pescetarian,106,No Allergies

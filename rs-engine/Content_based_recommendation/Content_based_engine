@@ -1,0 +1,44 @@
+import pandas as pd
+import numpy as np
+import warnings
+warnings.filterwarnings('ignore')
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.metrics.pairwise import sigmoid_kernel
+
+product_df = pd.read_csv('product_data.csv')
+
+#print(product_df.head())
+
+product_df=product_df.drop_duplicates(subset=['product'], keep='first')
+
+product_df.head()
+
+product_df.reset_index(inplace = True, drop = True)
+
+product_matrix = product_df.drop(columns=['product_id','product','shelf_life','usual_storage','serving_size_g'])
+
+print(product_matrix.head())
+
+product_matrix = MinMaxScaler().fit_transform(product_matrix)
+
+corelation_matrix = sigmoid_kernel(product_matrix,product_matrix)
+
+index = pd.Series(product_df.index,index = product_df['product']).drop_duplicates()
+
+
+def give_recomm (product, engine=corelation_matrix):
+    
+    prod_id = index[product]
+    
+    relative_score = list (enumerate(engine[prod_id]))
+    
+    relative_score = sorted(relative_score, key = lambda x:x[1], reverse = True)
+    
+    relative_score = relative_score[0:11]
+    
+    item_id = [x[0] for x in relative_score]
+    
+    return product_df['product'].iloc[item_id]
+
+
+print(give_recomm ('spaghetti'))

@@ -1,0 +1,7 @@
+tqdm
+gensim
+seaborn
+openpyxl
+matplotlib
+tensorflow
+scikit-learn

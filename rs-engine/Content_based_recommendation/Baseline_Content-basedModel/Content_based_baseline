@@ -1,0 +1,35 @@
+import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
+# Load the product.csv file into a Pandas dataframe
+data = pd.read_csv('product_data.csv')
+
+# Create a binary feature matrix for the catagory
+catagory_matrix = pd.get_dummies(data['catagory'].str.split("|").apply(pd.Series).stack()).sum(level=0)
+
+# Compute the cosine similarity matrix
+similarity = cosine_similarity(catagory_matrix)
+
+# Function to get the recommended product
+def get_recommendations(product, top_n=5):
+    # Find the index of the product with the given name
+    idx = data[data['product'] == product].index[0]
+    
+    # Get the cosine similarity scores for the product
+    similarity_scores = list(enumerate(similarity[idx]))
+    
+    # Sort the similarity scores in descending order
+    similarity_scores = sorted(similarity_scores, key=lambda x: x[1], reverse=True)
+    
+    # Get the top_n product indices
+    product_indices = [i[0] for i in similarity_scores[1:top_n+1]]
+    
+    # Return the top_n most similar products
+    return data['product'].iloc[product_indices]
+    
+
+# Ask the user for the product name
+item = input("Enter the product : ")
+
+# Get the recommended products
+print("Top 5 similar product:")
+print(get_recommendations(item))
