@@ -1,3 +1,4 @@
+<<<<<<< HEAD:rs-engine/gnn-based/README.md
 # Description
 A GNN based on GraphSage for learning user and product embeddings.
 
@@ -25,3 +26,31 @@ To produce the csv file, run the below command:
 ```bash
 python generate_recommendations.py PATH_TO_DATASET_DIR --epochs=[NUM_EPOCHS] --output_dir=[PATH_TO_OUTPUT_DIR]
 ```
+=======
+# Project Description
+
+Backend contains APIs that interact with postgresql database and return values that are later used in the frontend. 
+
+# Requirements
+pytest===7.2.1
+
+gunicorn===20.1.0
+
+Flask-Migrate===4.0.4
+
+python-dotenv===1.0.0
+
+psycopg2-binary===2.9.5
+
+Flask-SQLAlchemy===3.0.3
+
+postgreSQL database.
+
+# How to run
+1. Make you are located in the backend directory.
+2. Start the flask server in debug mode.
+
+```bash
+flask --app main --debug run
+```
+>>>>>>> 0d16c67f11b68b978fd118c5cb4b26aa4ef71a2c:backend/README.md

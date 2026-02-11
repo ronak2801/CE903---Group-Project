@@ -1,3 +1,4 @@
+<<<<<<< HEAD:rs-engine/gnn-based/requirements.txt
 -f https://download.pytorch.org/whl/cpu/torch_stable.html
 -f https://data.pyg.org/whl/torch-1.13.1+cpu.html
 torch==1.13.1+cpu
@@ -8,3 +9,11 @@ torch-geometric
 torchvision
 ml_metrics
 seaborn
+=======
+pytest===7.2.1
+gunicorn===20.1.0
+Flask-Migrate===4.0.4
+python-dotenv===1.0.0
+psycopg2-binary===2.9.5
+Flask-SQLAlchemy===3.0.3
+>>>>>>> 0d16c67f11b68b978fd118c5cb4b26aa4ef71a2c:backend/requirements.txt
